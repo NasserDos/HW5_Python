@@ -1,0 +1,23 @@
+commit b2340fe3acb04273d2e81fb0bd9c16c22e00458b
+Author: NasserDos <nasserbinshabeeb@mail.weber.edu>
+Date:   Tue Mar 14 10:40:23 2017 -0600
+
+    update git repository
+
+commit 7435336f61cf00d81184b05879be24a3c6825148
+Author: NasserDos <nasserbinshabeeb@mail.weber.edu>
+Date:   Tue Mar 7 07:45:39 2017 -0700
+
+    Kinda done !
+
+commit f16da8c53e6e450a2074ca6ecee4f4cfdc5ba06e
+Author: NasserDos <nasserbinshabeeb@mail.weber.edu>
+Date:   Thu Mar 2 10:51:30 2017 -0700
+
+    Created main .py file, currently works but doesn't use the specifications int he assignment
+
+commit d94972df094bce9f1da9cab6c4b232b14546f8b5
+Author: NasserDos <nasserbinshabeeb@mail.weber.edu>
+Date:   Thu Mar 2 10:28:36 2017 -0700
+
+    Initial commit
